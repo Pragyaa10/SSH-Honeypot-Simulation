@@ -1,0 +1,86 @@
+2022-11-24 10:50:13,850 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 10:50:13,852 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 10:50:13,880 - paramiko.transport - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2022-11-24 10:50:22,300 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 10:50:22,305 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 10:50:22,324 - paramiko.transport - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2022-11-24 10:51:09,950 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 10:51:09,952 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 10:51:09,977 - paramiko.transport - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2022-11-24 10:51:21,533 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 10:51:21,537 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 10:51:21,559 - paramiko.transport - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2022-11-24 10:52:33,287 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 10:52:33,290 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 10:52:33,308 - paramiko.transport - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2022-11-24 11:04:12,625 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 11:04:12,631 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 11:04:12,676 - paramiko.transport - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2022-11-24 11:04:44,781 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 11:04:44,786 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 11:04:46,056 - paramiko.transport - INFO - Auth rejected (none).
+2022-11-24 11:04:46,056 - root - INFO - client called get_allowed_auths (127.0.0.1) with username demo
+2022-11-24 11:04:48,062 - root - INFO - new client credentials (127.0.0.1): username: demo, password: mishal
+2022-11-24 11:04:48,062 - paramiko.transport - INFO - Auth granted (password).
+2022-11-24 11:04:48,157 - root - INFO - client called check_channel_request (127.0.0.1): session
+2022-11-24 11:04:48,158 - root - INFO - Client mac (127.0.0.1): hmac-sha2-256-etm@openssh.com
+2022-11-24 11:04:48,158 - root - INFO - Client compression (127.0.0.1): none
+2022-11-24 11:04:48,159 - root - INFO - Client SSH version (127.0.0.1): SSH-2.0-OpenSSH_for_Windows_8.6
+2022-11-24 11:04:48,159 - root - INFO - Client SSH cipher (127.0.0.1): aes128-ctr
+2022-11-24 11:04:59,680 - root - INFO - Command received (127.0.0.1): whoami
+2022-11-24 11:04:59,681 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 11:05:02,698 - root - INFO - Command received (127.0.0.1): ipconfig
+2022-11-24 11:05:02,700 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 11:06:17,036 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 11:06:17,037 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 11:06:17,049 - paramiko.transport - INFO - Auth rejected (none).
+2022-11-24 11:06:17,051 - root - INFO - client called get_allowed_auths (127.0.0.1) with username demo
+2022-11-24 11:06:19,113 - root - INFO - new client credentials (127.0.0.1): username: demo, password: mishal
+2022-11-24 11:06:19,113 - paramiko.transport - INFO - Auth granted (password).
+2022-11-24 11:06:19,118 - root - INFO - client called check_channel_request (127.0.0.1): session
+2022-11-24 11:06:19,119 - root - INFO - Client mac (127.0.0.1): hmac-sha2-256-etm@openssh.com
+2022-11-24 11:06:19,119 - root - INFO - Client compression (127.0.0.1): none
+2022-11-24 11:06:19,120 - root - INFO - Client SSH version (127.0.0.1): SSH-2.0-OpenSSH_for_Windows_8.6
+2022-11-24 11:06:19,120 - root - INFO - Client SSH cipher (127.0.0.1): aes128-ctr
+2022-11-24 11:06:23,026 - root - INFO - Command received (127.0.0.1): who am
+2022-11-24 11:06:23,031 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 11:06:25,301 - root - INFO - Command received (127.0.0.1): whoami
+2022-11-24 11:06:25,302 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 11:06:28,375 - root - INFO - Command received (127.0.0.1): ipconfig
+2022-11-24 11:06:28,376 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 11:06:32,155 - root - INFO - Command received (127.0.0.1): w
+2022-11-24 11:06:32,156 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 11:06:33,501 - root - INFO - Command received (127.0.0.1): exit
+2022-11-24 11:06:33,502 - root - INFO - Connection closed (via exit command): 127.0.0.1
+
+2022-11-24 11:06:33,514 - paramiko.transport - INFO - Disconnect (code 11): disconnected by user
+2022-11-24 12:25:03,997 - root - INFO - New connection from: 127.0.0.1
+2022-11-24 12:25:04,007 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-24 12:25:04,051 - paramiko.transport - INFO - Auth rejected (none).
+2022-11-24 12:25:04,052 - root - INFO - client called get_allowed_auths (127.0.0.1) with username demo
+2022-11-24 12:25:08,609 - root - INFO - new client credentials (127.0.0.1): username: demo, password: mosuaj
+2022-11-24 12:25:08,609 - paramiko.transport - INFO - Auth granted (password).
+2022-11-24 12:25:08,623 - root - INFO - client called check_channel_request (127.0.0.1): session
+2022-11-24 12:25:08,623 - root - INFO - Client mac (127.0.0.1): hmac-sha2-256-etm@openssh.com
+2022-11-24 12:25:08,623 - root - INFO - Client compression (127.0.0.1): none
+2022-11-24 12:25:08,623 - root - INFO - Client SSH version (127.0.0.1): SSH-2.0-OpenSSH_for_Windows_8.6
+2022-11-24 12:25:08,624 - root - INFO - Client SSH cipher (127.0.0.1): aes128-ctr
+2022-11-24 12:25:17,893 - root - INFO - Command received (127.0.0.1): wijsj
+2022-11-24 12:25:17,908 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 12:25:31,100 - root - INFO - Command received (127.0.0.1): whoami
+2022-11-24 12:25:31,101 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-24 12:26:11,200 - paramiko.transport - INFO - Disconnect (code 11): disconnected by user
+2022-11-27 18:27:31,461 - root - INFO - New connection from: 127.0.0.1
+2022-11-27 18:27:31,463 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_for_Windows_8.6)
+2022-11-27 18:27:31,504 - paramiko.transport - INFO - Auth rejected (none).
+2022-11-27 18:27:31,504 - root - INFO - client called get_allowed_auths (127.0.0.1) with username mishal
+2022-11-27 18:27:34,402 - root - INFO - new client credentials (127.0.0.1): username: mishal, password: mishal
+2022-11-27 18:27:34,402 - paramiko.transport - INFO - Auth granted (password).
+2022-11-27 18:27:34,405 - root - INFO - client called check_channel_request (127.0.0.1): session
+2022-11-27 18:27:34,406 - root - INFO - Client mac (127.0.0.1): hmac-sha2-256-etm@openssh.com
+2022-11-27 18:27:34,406 - root - INFO - Client compression (127.0.0.1): none
+2022-11-27 18:27:34,406 - root - INFO - Client SSH version (127.0.0.1): SSH-2.0-OpenSSH_for_Windows_8.6
+2022-11-27 18:27:34,406 - root - INFO - Client SSH cipher (127.0.0.1): aes128-ctr
+2022-11-27 18:27:39,147 - root - INFO - Command received (127.0.0.1): who
+2022-11-27 18:27:39,159 - root - INFO - Response from honeypot (127.0.0.1): 
+2022-11-27 18:27:43,353 - paramiko.transport - INFO - Disconnect (code 11): disconnected by user
